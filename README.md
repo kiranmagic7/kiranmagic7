@@ -4,7 +4,7 @@ I build developer tools, agent workflows, and research infrastructure where smal
 
 My work is simple to judge: reproduce the issue, respect the product, keep the diff sharp, and leave maintainers with tests they can trust.
 
-**29 public upstream pull requests merged since February 2026. 58 total merged PRs across public and owned work. More under review.**
+**29 public upstream pull requests merged since February 2026.**
 
 Small fixes when the fix should be small. High standards every time.
 
