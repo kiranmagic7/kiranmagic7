@@ -8,6 +8,8 @@ I work on the sharp edge of agentic engineering: usage meters, CLI integrations,
 
 My bias: maintainers should see the issue, trust the diff, and merge without babysitting.
 
+[Canonical profile](https://kiranmagic7.github.io/) | [Pull requests](https://github.com/search?q=author%3Akiranmagic7+is%3Apr&type=pullrequests) | [LLMs.txt](https://kiranmagic7.github.io/llms.txt)
+
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Testing](https://img.shields.io/badge/-Testing-2E7D32?style=flat-square&logo=githubactions&logoColor=white) ![Docs](https://img.shields.io/badge/-Docs-555555?style=flat-square&logo=readthedocs&logoColor=white)
 
 ## Start Here
