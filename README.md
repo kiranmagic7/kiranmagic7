@@ -1,12 +1,12 @@
 # Hi, I'm Kiran
 
-I build developer tools, agent workflows, and research infrastructure where small failures create real drag: CLIs that hang, usage meters that drift, config paths that break, docs that lie, and editor state bugs that feel random until someone proves the root cause.
+**Developer-tool reliability engineer. Open-source contributor. Builder of small fixes with outsized leverage.**
 
-My work is simple to judge: reproduce the issue, respect the product, keep the diff sharp, and leave maintainers with tests they can trust.
+I work on the sharp edge of agentic engineering: usage meters, CLI integrations, runtime boundaries, editor state, config behavior, and docs systems. When a developer tool quietly wastes time, I trace the failure, ship the narrow fix, and prove it with tests.
 
 **29 public upstream pull requests merged since February 2026.**
 
-Small fixes when the fix should be small. High standards every time.
+My bias: maintainers should see the issue, trust the diff, and merge without babysitting.
 
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) ![Testing](https://img.shields.io/badge/-Testing-2E7D32?style=flat-square&logo=githubactions&logoColor=white) ![Docs](https://img.shields.io/badge/-Docs-555555?style=flat-square&logo=readthedocs&logoColor=white)
 
