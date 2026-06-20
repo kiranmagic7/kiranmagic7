@@ -6,6 +6,8 @@ Most of my work is in developer tools, CLI reliability, usage metering, docs cor
 
 Small fixes. Real tests. Clean PRs.
 
+Since February 2026, I have landed 58 merged PRs across 11 public repositories, with more in review. The pattern is simple: find the real edge case, write the smallest fix, prove it with tests.
+
 ## What I work on
 
 1. Developer tools: CodexBar, OpenClaw, Crabbox, gogcli, tokentally
